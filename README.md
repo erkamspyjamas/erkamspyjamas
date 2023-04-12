@@ -1,16 +1,18 @@
-### Hi there 👋
+![banner](https://user-images.githubusercontent.com/73748872/231413127-2982fdb6-9989-4e3a-b6e2-f2d434028720.png)
 
-<!--
-**erkamspyjamas/erkamspyjamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Someone who has been a technology enthusiast all their life.
 
-Here are some ideas to get you started:
+#### Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+
+<div style="text-align: center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erkamspyjamas&count_private=true&show_icons=true&theme=prussian" width="400">
+<br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkamspyjamas&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</div>
