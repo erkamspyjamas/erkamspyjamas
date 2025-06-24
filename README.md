@@ -43,7 +43,7 @@
 
 | Project                                                    | Description                                               | Technologies                       |
 | ---------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------- |
-| **Sustindex** ([sustindex.com](https://www.sustindex.com)) | FinTech platform developed solo.                          | Django, FastAPI, React, PostgreSQL |
+| **Sustindex**  | FinTech platform developed solo.                          | Django, FastAPI, React, PostgreSQL |
 | **Torpal3\_Game**                                          | Educational puzzle game created in Unity.                 | C#, Unity                          |
 | **Finance-Trading-Algorithms**                             | Algorithmic trading strategy implementations.             | Python, Pandas                     |
 | **blog**                                                   | Personal blog template.                                   | HTML, CSS, JavaScript              |
