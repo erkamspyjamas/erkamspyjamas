@@ -41,13 +41,18 @@
 
 ## 📂 Featured Projects
 
-| Project                                                    | Description                                               | Technologies                       |
-| ---------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------- |
-| **Sustindex**  | FinTech platform developed solo.                          | Django, FastAPI, React, PostgreSQL |
-| **Torpal3\_Game**                                          | Educational puzzle game created in Unity.                 | C#, Unity                          |
-| **Finance-Trading-Algorithms**                             | Algorithmic trading strategy implementations.             | Python, Pandas                     |
-| **blog**                                                   | Personal blog template.                                   | HTML, CSS, JavaScript              |
-| **ray**                                                    | Experiments with the Ray distributed computing framework. | Python, Ray                        |
+| Project                          | Description                                                                                 | Technologies                       |
+| -------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------- |
+| **Sustindex**                    | FinTech platform developed solo.                                                            | Django, FastAPI, React, PostgreSQL |
+| **Finance-Trading-Algorithms**   | Algorithmic trading strategy implementations.                                               | Python, Pandas                     |
+| **FastAPI + PostgreSQL Demo**    | RESTful service showcasing data modeling and async endpoints. *(private)*                   | FastAPI, PostgreSQL, SQLAlchemy    |
+| **Django REST + PostgreSQL App** | Backend API for user management and content delivery. *(private)*                           | Django REST Framework, PostgreSQL  |
+| **Cognitive Booster**            | Django web application to track and improve users' cognitive performance through exercises. | Django, JavaScript, SQLite         |
+| **TTS Training Web App**         | Django-based platform for training and managing Text-to-Speech models.                      | Django, NVIDIA NeMo, Docker        |
+| **ray**                          | Experiments with the Ray distributed computing framework.                                   | Python, Ray                        |
+| **Torpal3\_Game**                | Educational puzzle game created in Unity.                                                   | C#, Unity                          |
+
+> **Note:** Some of these projects are private and not publicly available.
 
 ---
 
@@ -66,13 +71,6 @@
 
 **BSc in Management Information Systems**
 Necmettin Erbakan University (2019 – 2023)
-
----
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erkamspyjamas\&show_icons=true\&locale=en)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erkamspyjamas\&layout=compact\&hide=html)
 
 ---
 
