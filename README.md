@@ -41,16 +41,19 @@
 
 ## 📂 Featured Projects
 
-| Project                             | Description                                                                                                | Technologies                       |
-| ----------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| **Sustindex**                       | FinTech platform developed solo.                                                                           | Django, FastAPI, React, PostgreSQL |
-| **Finance-Trading-Algorithms**      | Algorithmic trading strategy implementations.                                                              | Python, Pandas                     |
-| **FastAPI + PostgreSQL API System** | RESTful service built and deployed on **Azure**, showcasing data modeling and async endpoints. *(private)* | FastAPI, PostgreSQL, SQLAlchemy    |
-| **Django REST + PostgreSQL App**    | Backend API for user management and content delivery. *(private)*                                          | Django REST Framework, PostgreSQL  |
-| **Cognitive Booster**               | Django web application to track and improve users' cognitive performance through exercises. *(private)*    | Django, JavaScript, SQLite         |
-| **TTS Training Web App**            | Django-based platform for training and managing Text-to-Speech models. *(private)*                         | Django, NVIDIA NeMo, Docker        |
-| **ray**                             | Experiments with the Ray distributed computing framework.                                                  | Python, Ray                        |
-| **Torpal3\_Game**                   | Educational puzzle game created in Unity.                                                                  | C#, Unity                          |
+| Project                             | Description                                                                                                      | Technologies                          | 
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| **Sustindex**                       | FinTech platform developed solo. *(private)*                                                                     | Django, FastAPI, React, PostgreSQL    |
+| **Stock & Device Tracker**          | Full-featured dynamic stock, cargo, and device tracking system with two versions (Firebase & MSSQL). *(private)* | Node.js, Express.js, Firebase / MSSQL |
+| **FastAPI + PostgreSQL API System** | RESTful service built and deployed on **Azure**, showcasing data modeling and async endpoints. *(private)*       | FastAPI, PostgreSQL, SQLAlchemy       |
+| **Django REST + PostgreSQL App**    | Backend API for user management and content delivery. *(private)*                                                | Django REST Framework, PostgreSQL     |
+| **Cognitive Booster**               | Django web application to track and improve users' cognitive performance through exercises. *(private)*          | Django, JavaScript, SQLite            |
+| **TTS Training Web App**            | Django-based platform for training and managing Text-to-Speech models. *(private)*                               | Django, NVIDIA NeMo, Docker           |
+| **Finance-Trading-Algorithms**      | Algorithmic trading strategy implementations.                                                                    | Python, Pandas                        |
+| **Speed Reading Platform**          | High-performance reading application I developed and enhanced in PHP with MySQL. *(private)*                     | PHP, MySQL                            |
+| **Advanced Learning Unity Program** | Developer on a Unity C# educational application designed for power learners. *(private)*                         | Unity, C#                             |
+| **ray**                             | Experiments with the Ray distributed computing framework.                                                        | Python, Ray                           |
+| **Torpal3\_Game**                   | Educational puzzle game created in Unity.                                                                        | C#, Unity                             |
 
 > **Note:** Some of these projects are private and not publicly available.
 
@@ -59,9 +62,9 @@
 ## 🛠️ Technical Skills
 
 **Languages:** Python, Java, C#, PHP, JavaScript/TypeScript
-**Web & APIs:** Express.js, Django REST, FastAPI, Azure Functions, React, Nginx
+**Web & APIs:** Express.js, Django REST, FastAPI, Azure Functions, React, Nginx, Apache
 **AI & Data Science:** Reinforcement Learning, Ray, TensorFlow, PyTorch, NumPy, Pandas
-**DevOps & SysAdmin:** Arch Linux, Linux, Docker, AWS EC2, Azure, Nginx, CI/CD
+**DevOps & SysAdmin:** Arch Linux, Arch-based distros, Ubuntu Server (22.04, 24.04), Debian Server (12.11), Windows Server (2016, 2019), Docker, AWS EC2, Azure, Nginx, Apache, CI/CD
 **Databases:** MySQL, PostgreSQL, MongoDB, Redis
 **Mobile:** Android (Java)
 
