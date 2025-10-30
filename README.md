@@ -7,7 +7,6 @@
 **🔬 R\&D Engineer & Full-Stack Developer**
 
 📍 Afyonkarahisar, Turkey
-📞 +90 539 569 28 75
 ✉️ [admin@harunerkam.com](mailto:admin@harunerkam.com)
 🌐 [harunerkam.com](https://harunerkam.com)
 🎂 Born: 2001, Istanbul
