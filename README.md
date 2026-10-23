@@ -16,7 +16,9 @@ Backend-focused software engineer with **3+ years of experience** designing, bui
 
 I build and operate software systems across the full development lifecycle — from **database design and backend architecture** to **frontend integration, infrastructure, CI/CD, and production operations**.
 
-My main focus is on **Django, FastAPI, Go, PostgreSQL, Redis, and Node.js/Express.js**, with hands-on experience running containerized workloads using **Docker, Kubernetes/k3s, Nginx, Traefik, and PgBouncer**.
+I develop **C#/.NET APIs and web applications with ASP.NET Core and Entity Framework Core**, alongside **Django, FastAPI, Go, and Node.js/Express.js** services. My data stack includes **MSSQL / SQL Server, PostgreSQL, and Redis**.
+
+I work across **Windows Server and Linux** environments, with hands-on experience running containerized workloads using **Docker, Kubernetes (k8s), Nginx, Traefik, and PgBouncer**.
 
 My work includes systems involving **authentication, payments, invoices, automation workflows, real-time services, AI/TTS integrations, streaming, and external service integrations**.
 
@@ -30,12 +32,13 @@ I enjoy R&D-driven projects where software engineering, infrastructure, performa
 
 **Full Stack Developer & DevOps Engineer — R&D** · Aug 2026 – Present
 - Developing R&D-focused systems combining backend development, infrastructure, real-time communication, distributed systems, and applied AI.
-- Designing scalable architectures with Django, FastAPI, Go, PostgreSQL, and Redis.
+- Developing C#/.NET APIs and web applications with ASP.NET Core, Entity Framework Core, and MSSQL.
+- Designing backend services with Django, FastAPI, Go, PostgreSQL, and Redis, working across Windows Server and Linux environments with Docker and Kubernetes (k8s).
 - Integrating AI/TTS, streaming, and external service pipelines with a focus on performance, reliability, and scalability.
 
 **Full Stack Developer & DevOps Engineer** · Aug 2024 – Aug 2026
 - Built production applications, REST APIs, and internal services using Django, FastAPI, Express.js, Node.js, and Go.
-- Managed PostgreSQL, Redis, Docker, k3s/Kubernetes, Nginx, PgBouncer, CI/CD, SSL/TLS, ingress, monitoring, and automated deployments.
+- Managed PostgreSQL, Redis, Docker, Kubernetes (k8s), Nginx, PgBouncer, CI/CD, SSL/TLS, ingress, monitoring, and automated deployments.
 - Worked on database tuning, caching, connection pooling, observability, and production reliability.
 
 **Full Stack Developer** · Feb 2024 – Aug 2024
@@ -58,6 +61,12 @@ I enjoy R&D-driven projects where software engineering, infrastructure, performa
 ## 🛠️ Technical Skills
 
 ### Backend
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+`Entity Framework Core` · `REST APIs` · `Background Workers`
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -73,19 +82,21 @@ I enjoy R&D-driven projects where software engineering, infrastructure, performa
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 
 ### Data
+![MSSQL / SQL Server](https://img.shields.io/badge/MSSQL_SQL_Server-CC2927?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### DevOps & Infrastructure
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-`k3s` · `Traefik` · `PgBouncer` · `Gunicorn/Uvicorn` · `CI/CD` · `SSL/TLS` · `Health & Readiness Checks` · `Logging & Monitoring`
+`k8s` · `Traefik` · `PgBouncer` · `Gunicorn/Uvicorn` · `CI/CD` · `SSL/TLS` · `Health & Readiness Checks` · `Logging & Monitoring`
 
 ### R&D / AI Systems
 `PyTorch` · `NVIDIA NeMo` · `ESPnet` · `VITS` · `TTS Pipelines` · `Streaming Gateways` · `Real-Time Service Integration`
@@ -96,6 +107,8 @@ I enjoy R&D-driven projects where software engineering, infrastructure, performa
 
 | Project | Description | Technologies |
 | --- | --- | --- |
+| **[Doom Team](https://github.com/erkamspyjamas/doom-team)** | Self-hosted software engineering team with dependency-aware planning, real validation, independent QA/review, durable mission history, and a human approval boundary. Public repository; early engineering release. | Python, Git, CLI, AI orchestration |
+| **NSP .NET API Platform** | API and background-worker platform for authentication, client/dealer workflows, CRM operations, and reporting. *(private)* | C#, ASP.NET Core, Entity Framework Core, MSSQL |
 | **Sustindex** | FinTech platform developed independently. *(private)* | Django, FastAPI, React, PostgreSQL |
 | **Stock & Device Tracker** | Inventory, cargo, and device tracking system with Firebase and MSSQL variants. *(private)* | Node.js, Express.js, Firebase, MSSQL |
 | **Cognitive Booster** | Web application for cognitive-performance exercises and user progress workflows. *(private)* | Django, JavaScript |
